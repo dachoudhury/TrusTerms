@@ -117,7 +117,7 @@ The JSON should be structured as follows:
 """
 
 
-        genai.configure(api_key="AIzaSyB-lGipmE-uSN0pr-2XZ6OP8ApI-YEPU3o")
+        genai.configure(api_key="YOUR-API-KEY")
             
         model_gemini = genai.GenerativeModel(model_type)
         response = model_gemini.generate_content(
