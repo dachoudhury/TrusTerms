@@ -69,5 +69,7 @@ We welcome contributions from the community! If you’d like to help improve the
 ## Built by
 
 Dimittri Choudhury - [Dimittri Choudhury - LinkedIn](https://www.linkedin.com/in/dimittrichoudhury/)
+
 Pierre Choudhury - [Pierre Choudhury - LinkedIn](https://www.linkedin.com/in/pierre-shourdjyo-choudhury-9b2540277/)
+
 Alexandre Klobb - [Alexandre Klobb - LinkedIn](https://www.linkedin.com/in/alexandre-klobb-09bb40225/)
