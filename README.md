@@ -18,7 +18,7 @@ TrusTerms is an open-source browser extension designed to help users better unde
    - Go to the [Releases page](#) and download the latest version of the project.
 
 2. **Set Up the API LLM Service**
-   - Choose your preferred API LLM service (e.g., OpenAI, Cohere, etc.) and obtain an API key.
+   - Choose your preferred API LLM service (e.g., Mistral, Gemini, etc.) and obtain an API key.
    - Insert your API key into the extension’s settings.
 
 3. **Run the Backend**
